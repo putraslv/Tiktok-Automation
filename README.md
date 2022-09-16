@@ -14,6 +14,11 @@ Go to the project directory
 ```Command Prompt
   cd Tiktok-Automation
 ```
+Install Requirements
+
+```Command Prompt
+  npm install or npm i
+```
 
 Choose the tools, Example :
 
